@@ -1,14 +1,14 @@
 # SpectrumVisualizer
 
-I used a music reffered below as a sample.
+Using a music reffered below as a sample.  
 
-// ==
-LUVORATORRRRRY!
+// ==  
+LUVORATORRRRRY!  
 
-Music&Lyrics&Vocal : Reol
-Music&Arranged : Giga
-Rap : nqrse
+Music&Lyrics&Vocal : Reol  
+Music&Arranged : Giga  
+Rap : nqrse  
 
-https://www.youtube.com/watch?v=p-o_bMkzOW0
-== //
+https://www.youtube.com/watch?v=p-o_bMkzOW0  
+== //  
 
